@@ -1,2 +1,2 @@
 # cryptography
- 1.the RSA algorithm with C++
+ the RSA algorithm with C++
